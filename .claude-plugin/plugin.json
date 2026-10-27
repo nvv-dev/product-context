@@ -1,0 +1,16 @@
+{
+  "name": "product-context",
+  "version": "0.1.0",
+  "description": "Creates and maintains a versioned .agents/product-context.md (product, ideal customer, positioning, objections, proof, learnings) that copy, content, design and SEO work read first.",
+  "author": {
+    "name": "nvvdev",
+    "url": "https://github.com/nvv-dev"
+  },
+  "homepage": "https://github.com/nvv-dev/product-context",
+  "repository": "https://github.com/nvv-dev/product-context",
+  "license": "MIT",
+  "keywords": [
+    "skill",
+    "growth-workflow"
+  ]
+}
